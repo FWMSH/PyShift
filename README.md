@@ -10,7 +10,7 @@ Place a Kinect sensor around waist-height, with a display above. As users walk t
 - `OpenCv2` & `python_opencv2`
 - Python 3.7
 
-### How to use
+### Use
 ```
 python3 pyshift.py <inputimage>
 ```
