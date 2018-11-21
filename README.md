@@ -1,6 +1,5 @@
 # PyShift
-##### A Kinect-based Doppler shift demonstration
-Seth Stubbs and Morgan Rehnberg
+A Kinect-based Doppler-shift demonstration created by Seth Stubbs and Morgan Rehnberg.
 
 ### Effect
 Place a Kinect sensor around waist-height, with a display above. As users walk towards the display, the image will appear to be blue-shifted. As the user backs away, the image will appear red-shifted.
